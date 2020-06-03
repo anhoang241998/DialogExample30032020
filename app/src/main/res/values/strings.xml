@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alert Dialog 30032020</string>
+    <string name="show_dialog">show dialog</string>
+    <string name="btn_custom_dialog">Custom Dialog</string>
+    <string name="tv1">Ooops!</string>
+    <string name="tv2">No internet connection found.</string>
+    <string name="tv3">Check your connection</string>
+    <string name="btn">Try Again</string>
+</resources>
